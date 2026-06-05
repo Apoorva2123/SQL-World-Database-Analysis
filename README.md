@@ -1,2 +1,6 @@
 # SQL-World-Database-Analysis
-Developed a series of SQL queries using MySQL's World database to solve real-world analytical problems. The project covers joins, aggregations, filtering, grouping, and data exploration while emphasizing the importance of understanding business requirements before writing queries.
+
+As analysts, it's easy to jump straight into writing queries. 
+But understanding what the stakeholder actually wants is often more important than the SQL itself.
+
+This repository contains SQL exercises built on MySQL's World database, where each query is designed to answer a specific business question while reinforcing core SQL concepts such as JOINs, GROUP BY, HAVING, and aggregate functions.
